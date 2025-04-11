@@ -1,12 +1,12 @@
+🚀 Understanding Methods in Java with Packages! 📂
+
+Methods are blocks of reusable code that perform specific tasks. In Java, organizing methods inside different packages (folders) improves code structure, making it more modular and scalable.
+
 📝 No Return Type & No Parameters Method
 The add() method inside the Calculator class:
 * Does not return any value (void return type).
 * Does not take any parameters (fixed values inside the method).
 * Performs addition and prints the result.
-
-🚀 Understanding Methods in Java with Packages! 📂
-
-Methods are blocks of reusable code that perform specific tasks. In Java, organizing methods inside different packages (folders) improves code structure, making it more modular and scalable.
 
 Here’s a simple Java program demonstrating:
  ✅ Method with no return type and no parameters
